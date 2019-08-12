@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  helmdemo:
+  - created: "2019-08-12T13:27:37.972642646+08:00"
+    description: A basic NGINX HTTP server
+    digest: 2ab05a02b569db4d787b3c91bd5c8d968f0b165733928d634acdc1e81e497f56
+    home: https://github.com/helm/helm
+    keywords:
+    - http
+    - nginx
+    - www
+    - web
+    name: helmdemo
+    sources:
+    - https://hub.docker.com/_/nginx/
+    urls:
+    - https://cloudandcontainer.github.io/helmdemo/helmdemo-0.1.1.tgz
+    version: 0.1.1
+generated: "2019-08-12T13:27:37.969723425+08:00"
